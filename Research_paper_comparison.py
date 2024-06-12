@@ -16,7 +16,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.callbacks import get_openai_callback
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 llm = ChatOpenAI(model="gpt-3.5-turbo-1106",temperature=0)
 
 # This code is used to split the given text into chunks by specific page count.
