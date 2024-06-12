@@ -1,0 +1,597 @@
+Submitted 5 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.03303.pdf,10. Future Trends and Emerging Technologies in LLMs
+
+11 pages,https://arxiv.org/pdf/2402.03299.pdf,Challenges and Future Directions in LLM Research
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,The research paper belongs to subtopic 9: LLMs in Environmental Remediation.
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,8. Regulatory Considerations for LLMs
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,The research paper belongs to subtopic 10. Evaluation and Benchmarking of LLMs.
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,The research paper belongs to subtopic 8. Ethical and Societal Implications of LLMs.
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,10. Regulatory Considerations for LLMs
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,This research paper belongs to subtopic 2: Applications of LLMs
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,The research paper belongs to subtopic 8: LLMs in Immunotherapy.
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,5. LLMs in Infectious Diseases
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,This research paper belongs to subtopic 7: LLMs in Diagnostics.
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,10. Future Perspectives and Challenges
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,8. Future Perspectives and Challenges in LLM Research
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,The research paper belongs to subtopic 10: LLMs in Environmental Remediation.
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,Challenges and future prospects in LLM research
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,3. LLMs in Cancer Treatment
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,LLMs in Nanotechnology
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,The research paper belongs to subtopic 10: LLMs in Environmental Remediation.
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,8. Future trends in LLM research
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,6. Challenges and future prospects in LLM research
+
+Submitted 6 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.04249.pdf,10. Regulatory and Safety Considerations
+
+//www.harmbench.org,https://arxiv.org/pdf/2402.04247.pdf,9. Regulatory and Safety Considerations for LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges and future prospects in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges and future perspectives
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,1. Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,3. LLMs in Biomedical Engineering
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,The research paper belongs to subtopic 1: Types of LLMs.
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,8. Future Trends in LLM Research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,8. Future trends in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges and future prospects in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,4. Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,2. Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,This research paper belongs to subtopic 1: Types of LLMs.
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,3. LLMs in Biomedical Engineering
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,2. Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,10. LLMs in Nanotechnology
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,8. Future trends and challenges in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges and Future Directions in LLM Research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,The research paper belongs to subtopic 9: LLMs in Environmental Remediation.
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,10. Challenges in LLM Development
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,9. Challenges and future perspectives in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Types of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,10. Future Trends in LLM Research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges in LLM Development
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,The research paper belongs to subtopic 5: LLMs in biomedical applications.
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,Applications of LLMs
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05109.pdf,Challenges in LLM research
+
+Submitted 7 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05102.pdf,8. LLMs in Environmental Remediation
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,8. Challenges in LLM Development
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,4. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,The research paper belongs to subtopic 1: Types of LLMs.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,3. LLms in time series prediction
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,3. LLms (Low Latency Messaging Systems)
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,This research paper belongs to subtopic 4: LLMs in Nanotechnology.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,5. LLMs in Infectious Diseases
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,Types of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,Types of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,8. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,The research paper belongs to subtopic 7: LLMS in Communication and Information Technology.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,This research paper belongs to subtopic 7: LLMS in Communication and Information Technology.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 4: LLMS (Learning Management Systems).
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 4: LLMS (Learning Management Systems).
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,4. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,4. LLMs in Biomedical Engineering
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 4: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,10. LLMs in Nanotechnology
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 7: Regulatory Considerations for LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,2. LLMs in Drug Delivery
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,This research paper belongs to subtopic 3: LLMs in Biomedical Imaging.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,10. Challenges and Future Directions in LLM Research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,The research paper belongs to subtopic 3: LLMs in Biomedical Engineering.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,10. Future Trends in LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,2. Applications of LLMs
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,This research paper belongs to subtopic 10: LLMs in Nanotechnology.
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,Types of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,4. LLMs in Nanotechnology
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,LLMs in Fact-Checking
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,3. LLMs in Cancer Therapy
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,2. Applications of LLMs
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,7. LLMs in Personalized Medicine
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,LLM performance evaluation
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,8. LLMs in Agriculture
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,4. LLMs in Robotics
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,10. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,8. Future trends and challenges in LLM research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,2. Applications of LLMs
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,8. LLMs in Personalized Medicine
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,The research paper belongs to subtopic 10: LLMs in Nanotechnology.
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,8. LLMs in Personalized Medicine
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,9. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,8. Future trends in LLM research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,Types of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,4. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,3. Training and fine-tuning LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,This research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,8. Future trends in LLM research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,LLMs in Fact-Checking
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,Challenges and Future Directions in LLM Research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,5. LLMs in biomedical research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,5. LLMs in biomedical applications
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,8. LLMs in Personalized Medicine
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,8. LLMs in Food and Nutraceuticals
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,10. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,Types of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,4. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,9. Future trends in LLM research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,9. Future trends in LLM research
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,8. LLMs in nanomedicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,2. Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,Applications of LLMs
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,7. LLMs in Personalized Medicine
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,7. Regulatory Considerations for LLMs
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,8. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,10. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,10. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05935.pdf,2. Applications of LLMs
+
+//github.com/Alpha-VLLM/LLaMA2-Accessory,https://arxiv.org/pdf/2402.05932.pdf,The research paper belongs to the subtopic "Applications of LLMs."
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05930.pdf,The research paper belongs to subtopic 10: Future Perspectives and Emerging Trends.
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05926.pdf,7. LLMs in Personalized Medicine
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05904.pdf,Applications of LLMs
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05894.pdf,3. LLMs in Biomedical Engineering
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05889.pdf,4. Applications of LLMs
+
+17 pages, 6 figures, 4 tables,https://arxiv.org/pdf/2402.05880.pdf,10. Challenges in LLM Development
+
+68T30; 68R10; 68T05,https://arxiv.org/pdf/2402.05868.pdf,10. Challenges in LLM Development
+
+Submitted 8 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.05864.pdf,10. Challenges in LLM Development
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07896.pdf,10. Future Trends in LLM Research
+
+8 pages, 6 figures,https://arxiv.org/pdf/2402.07877.pdf,Applications of LLMs
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07876.pdf,The research paper belongs to subtopic 1: Types of LLMs.
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07867.pdf,6. Challenges in LLM research
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07862.pdf,10. Future Trends in LLM Research
+
+//github.com/sleeepeer/PoisonedRAG,https://arxiv.org/pdf/2402.07859.pdf,Future trends in LLM research
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07844.pdf,6. Challenges in LLM research
+
+18 pages (main text comprised of 15 pages, appendix comprised of three pages). 10 visualizations in the main text (four figures, six tables), three additional figures in the appendix,https://arxiv.org/pdf/2402.07841.pdf,6. Challenges in LLM research
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07827.pdf,7. LLMs in Natural Language Processing
+
+Submitted 12 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.07818.pdf,6. Regulatory Considerations for LLMs
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14809.pdf,9. Future Trends in LLM Research
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14808.pdf,The research paper belongs to subtopic 2: Applications of LLMs.
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14807.pdf,4. LLMs in Biomedical Engineering
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14805.pdf,10. Challenges and Future Directions in LLM Research
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14800.pdf,Types of LLMs
+
+Mixture-of-Experts Large Language Models,https://arxiv.org/pdf/2402.14798.pdf,6. Challenges in LLM research
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14778.pdf,Challenges and future prospects in LLM research
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14762.pdf,3. LLMs in Biomedical Engineering
+
+Submitted 22 February, 2024; 
+      originally announced February 2024.,https://arxiv.org/pdf/2402.14760.pdf,7. LLMs in Personalized Medicine
+
+//github.com/mtbench101/mt-bench-101,https://arxiv.org/pdf/2402.14746.pdf,Challenges in LLM Development
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02905.pdf,10. Future Perspectives in LLM Research
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02904.pdf,5. LLMs in medical research
+
+To appear at NAACL 2024,https://arxiv.org/pdf/2404.02899.pdf,2. Applications of LLMs
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02893.pdf,10. Future Perspectives and Challenges in LLM Research
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02883.pdf,8. LLMs in Gene Therapy
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02872.pdf,10. Future Perspectives and Challenges in LLM Research
+
+CVPR2024,https://arxiv.org/pdf/2404.02852.pdf,Challenges and Future Directions in LLM Research
+
+Submitted 3 April, 2024; 
+      originally announced April 2024.,https://arxiv.org/pdf/2404.02838.pdf,10. Future Perspectives in LLMs
+
+21 Pages, 13 Page Appendix,https://arxiv.org/pdf/2404.02837.pdf,9. Future trends in LLM research
+
+I.2.8,https://arxiv.org/pdf/2404.02823.pdf,3. Synthesis and Characterization of LLMs
+
